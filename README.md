@@ -5,7 +5,6 @@ This repository provides vision-related Agent Skills.
 - [video-generation](./skills/video-generation): Gemini Veo image-to-video / text-to-video
 
 ## Installation
-**Manual installation**:
 ```bash
 git clone https://github.com/Xiangyu-CAS/Vision-Skills.git
 
