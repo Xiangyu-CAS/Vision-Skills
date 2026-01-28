@@ -3,6 +3,7 @@
 This repository provides vision-related Agent Skills.
 - [image-generation](./skills/image-generation): Gemini (Nano Banana) text-to-image, image editing, and multi-image composition
 - [video-generation](./skills/video-generation): Gemini Veo image-to-video / text-to-video
+- [bbdown-cli](./skills/bbdown-cli): Install and use BBDown CLI for Bilibili downloads (login/cookies/access_token, prefer 720p, output to data/)
 
 ## Installation
 ```bash
@@ -43,4 +44,3 @@ export GEMINI_API_KEY="YOUR_KEY"
     <td><img src="assets/kitten_cartoon_1_fun_0.gif" alt="kitten_cartoon_1_fun_0" width="320"></td>
   </tr>
 </table>
-
